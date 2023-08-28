@@ -1,0 +1,13 @@
+<div class="slider-img third">
+    <div class="third-container">
+        <div class="lady">
+            <div class="users-container">
+                <img class="users-img" width="500" height="420" src="./img/O.webp" alt="Olga" />
+            </div>
+            <div>
+                <h1 class="text client user-text">Olga Kurylenko</h1>
+                <p class="text client user-text">45 років<br />Професійні дизайнер</p>
+            </div>
+        </div>
+    </div>
+</div>
