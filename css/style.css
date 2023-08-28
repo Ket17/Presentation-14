@@ -1,0 +1,277 @@
+.slider {
+    max-width: 1300px;
+    padding: 50px 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.slick-initialized .slick-slide {
+    display: flex;
+}
+
+.img-title-cont {
+    padding-top: 0;
+    width: 100%;
+}
+
+.logo-cont {
+    padding-right: 100px;
+}
+
+.img-title {
+    color: #fff;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+.text {
+    color: #fff;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.name-title {
+    padding-top: 0;
+    padding-left: 130px;
+    max-width: 600px;
+}
+
+.slider-img {
+    width: 90%;
+    height: 600px;
+}
+
+.first {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.slick-arrow {
+    background-color: gray;
+    border-radius: 50%;
+}
+
+.slider-img {
+    background: url(../img/bg.new.jpg);
+}
+
+.logo-project-img {
+    padding-right: 140px;
+}
+
+/* .img-tech {
+    background-color: transparent;
+    display: flex;
+} */
+
+/*-----SECOND SLIDE-----*/
+
+.members-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0;
+    margin-bottom: 60px;
+}
+
+.second {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.members-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    list-style-type: none;
+    padding: 0 50px;
+}
+
+.members-container {
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; */
+}
+
+.members-img {
+    border-radius: 30%;
+    border: 1px solid grey;
+    display: flex;
+    justify-content: center;
+}
+
+.members-name {
+    max-width: 160px;
+    color: azure;
+    align-items: start;
+    /* justify-content: start; */
+}
+
+.members-text {
+    display: flex;
+    color: azure;
+    align-items: start;
+}
+
+/*-----THIRD SLIDE-----*/
+.third-container {
+    padding: 80px 240px;
+    display: flex;
+    gap: 120px;
+}
+
+.users-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 360px;
+}
+
+.users-img {
+    border: 1px solid azure;
+}
+
+.third-list {
+    color: #fff;
+}
+
+.third-item {
+    padding-bottom: 12px;
+    font-size: 19px;
+    width: 360px;
+}
+
+.client {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+/*-----FOURTH SLIDE-----*/
+
+.fourth-slide-container {
+    padding: 60px;
+}
+
+.probl-list {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+}
+
+.fourth-slide-img {
+    align-items: center;
+}
+
+.comp-img {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 15px;
+}
+
+.noprobl {
+    color: #fff;
+    align-items: center;
+    width: 350px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.01em;
+}
+.access {
+    padding-top: 30px;
+}
+
+.utilites {
+    padding-top: 30px;
+}
+
+/*-----FIFTH SLIDE-----*/
+
+.fifth {
+    display: flex;
+    flex-direction: column;
+}
+
+.tech-main-title {
+    margin-bottom: 5px;
+}
+
+.tech-list {
+    display: flex;
+    /* align-items: center; */
+    /* flex-direction: row; */
+    gap: 160px;
+    padding-left: 200px;
+    padding-right: 200px;
+    justify-content: center;
+}
+
+.tech-li {
+    display: flex;
+    flex-direction: column;
+}
+
+.tech-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.tech-title {
+    color: azure;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.tech-img {
+    margin-bottom: 25px;
+}
+
+.tech-text-item {
+    color: azure;
+}
+
+.utilites-container {
+    display: block;
+    flex-direction: row;
+    gap: 20px;
+}
+
+/*-----SIXTH SLIDE-----*/
+
+.sixth-container {
+    padding: 80px;
+    /* width: 100%; */
+}
+
+.sixth-title {
+    margin-left: 280px;
+    margin-top: 15px;
+}
+
+.img-sixth {
+    margin-left: auto;
+    align-items: center;
+}
+
+.intri {
+    color: #fff;
+    text-align: right;
+}
